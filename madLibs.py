@@ -7,6 +7,7 @@ print("Select and have fun!!!!")
 choice = input("What story would you like: 'Vaction', 'Fortune Teller', or 'The Invitation: ")
 
 if choice == 'Vacation' or 'vacation' or 'VACATION':
+    print("You have chosen Vacation")
     adjective1 = input("Enter an adjective: ")
     adjective2 = input("Enter an adjective:")
     noun1 = input("Enter a noun: ")
